@@ -1,13 +1,13 @@
 {
-  "name": "haxe",
-  "description": "The Cross-Platform Toolkit",
+  "name": "haxe3",
+  "description": "Haxe 3 : The Cross-Platform Toolkit (a fork from David Mouton's damoebius/haxe-npm)",
   "keywords": [
     "javascript",
     "language",
     "haxe",
     "compiler"
   ],
-  "author": "David Mouton",
+  "author": "Emmanuel BOTROS YOUSSEF",
   "version": "3.1.3",
   "license": "MIT",
   "engines": {
@@ -22,10 +22,10 @@
     "install": "node ./bin/install"
   },
   "homepage": "http://haxe.org",
-  "bugs": "https://github.com/damoebius/haxe-npm/issues",
+  "bugs": "https://github.com/mebyz/haxe3/issues",
   "repository": {
     "type": "git",
-    "url": "git://github.com/damoebius/haxe-npm.git"
+    "url": "git://github.com/mebyz/haxe3.git"
   },
   "dependencies": {
     "download": "^4.2.1",
