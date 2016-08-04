@@ -1,5 +1,5 @@
 ![Haxe logo](http://haxe.org/img/haxe-logo.svg)
-# [Haxe - The Cross-Platform Toolkit](http://haxe.org)
+# [Haxe 3 - The Cross-Platform Toolkit (a fork from David Mouton's damoebius/haxe-npm) ](http://haxe.org)
 
 haxe
 ========
